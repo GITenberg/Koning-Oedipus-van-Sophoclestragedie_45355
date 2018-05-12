@@ -1,0 +1,43 @@
+_repo: Koning-Oedipus-van-Sophoclestragedie_45355
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Royaards, Willem Cornelis
+    gutenberg_agent_id: '43242'
+    url: http://www.gutenberg.org/2009/agents/43242
+covers:
+- cover_type: archival
+  image_path: 45355-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sophocles
+    alias: Σοφοκλής
+    birthdate: -496
+    deathdate: -406
+    gutenberg_agent_id: '26'
+    url: http://www.gutenberg.org/2009/agents/26
+    wikipedia: http://en.wikipedia.org/wiki/Sophocles
+  editor:
+    agent_name: Hofmannsthal, Hugo von
+    aliases:
+    - Von Hofmannsthal, Hugo
+    - Hofmannstahl, Hugo von
+    birthdate: 1874
+    deathdate: 1929
+    gutenberg_agent_id: '33600'
+    url: http://www.gutenberg.org/2009/agents/33600
+description: ''
+gutenberg_issued: '2014-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45355'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tragedies'
+- !lcsh 'Oedipus (Greek mythological figure) -- Drama'
+- !lcc 'PA'
+title: 'Koning Oedipus, van Sophocles: tragedie'
+url: http://www.gutenberg.org/ebooks/45355
